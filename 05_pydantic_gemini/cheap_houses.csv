@@ -1,0 +1,12 @@
+price,monthly_fee,living_area,number_rooms,type,address
+4300000,3200,140.0,5,house,"Tegsvägen 21, 904 33 Umeå"
+3200000,2800,125.0,4,house,"Bjurhovdagatan 9, 724 70 Västerås"
+4800000,3600,155.0,5,house,"Sommarrovägen 18, 653 46 Karlstad"
+3500000,3100,130.0,4,house,"Brämhultsvägen 67, 507 31 Brämhult"
+3800000,3400,145.0,5,house,"Mjölkuddsvägen 150, 973 41 Luleå"
+4100000,3300,135.0,5,house,"Lovisagatan 11, 554 62 Jönköping"
+4500000,3700,150.0,5,house,"Adolfsbergsvägen 32, 702 26 Örebro"
+3900000,3500,140.0,5,house,"Hovsvägen 5, 352 40 Växjö"
+4800000,3900,155.0,5,house,"Klågerupsvägen 200, 212 32 Malmö"
+3600000,3000,120.0,4,house,"Råtorpsvägen 14, 653 49 Karlstad"
+3100000,2900,130.0,4,house,"Rosenforsvägen 8, 633 55 Eskilstuna"
